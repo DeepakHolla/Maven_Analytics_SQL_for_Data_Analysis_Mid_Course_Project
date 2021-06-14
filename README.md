@@ -1,0 +1,2 @@
+# Maven_Analytics_SQL_for_Data_Analysis_Mid_Course_Project
+This repository contains the details of the Mid Course Project for the Maven_Analytics_SQL_for_Data_Analysis
